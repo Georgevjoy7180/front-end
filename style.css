@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+p{
+    color:white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px ;
+    
+}
+.navlink{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 10px;
+}
+.stack{
+    border-style: solid;
+    text-decoration: none;
+    border-width: 1px;
+    color:aliceblue;
+    border-color:white;
+    border-radius: 10px;
+    padding: 50px;
+    box-shadow: 10px 5px 5px grey;
+}
+#logo{
+    width: 150px;
+    height: auto;
+}
+#content1{
+    display: flex;
+    padding: 100px 100px;
+    gap: 20px;
+   background-image: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=740&t=st=1694682113~exp=1694682713~hmac=c862e189c796dd6e3f6d99352d10c04b0e07aaa83217d7091c73ba32d963241e);
+   background-size: cover;
+   background-repeat: no-repeat;
+  
+
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    color: black;
+}
+h2{
+    font-size: 50px;
+}
+.a{
+    color:aliceblue;
+    border-style: solid;
+    text-decoration: none;
+    background-color: black;
+    border-width: 1px;
+    border-color:black;
+    border-radius: 5px;
+    padding: 1px;
+}
+.col{
+    color: white;
+}
+.outer{
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color:black;
+    color: aliceblue;
+    width: 50%;
+    border-radius: 5px;
+    padding-bottom: 50px;
+}
+.sec1{
+    display: flex;
+    justify-content: center;
+    padding:20px;
+    background-image: url(https://img.freepik.com/free-photo/abstract-futuristic-background-with-3d-design_1361-3532.jpg?w=900&t=st=1694685343~exp=1694685943~hmac=f524fd3f59e24fc8ad47e7a9f869024559dc0822b00ae3529c0096027570faf0);
+    background-size:cover;
+    background-repeat: no-repeat;
+
+
+}
+.inner{
+    border-style: solid;
+    background-color: purple;
+    border-radius: 10px;
+    border-color: aliceblue;
+    padding:50px;
+
+}
+.button{
+    display: block;
+    margin: auto;
+}
+
